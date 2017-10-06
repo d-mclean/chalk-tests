@@ -1,0 +1,18 @@
+{
+  "name": "chalk-tests",
+  "version": "1.0.0",
+  "description": "Testing chalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"chalk\"",
+    "\"tests\""
+  ],
+  "author": "Darcy McLean",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
